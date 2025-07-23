@@ -1,1 +1,1 @@
-# Callbacks-Entri
+Callbacks are fundamental for handling asynchronous operations in JavaScript, such as network requests, file I/O, or user interactions. They ensure that certain code executes only after a prerequisite task has finished, preventing blocking of the main thread and maintaining responsiveness.
